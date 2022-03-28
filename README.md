@@ -1,11 +1,11 @@
 # Hi. I'm Ali Sameni. 🔆
 I am a fullstack developer and software architect.
 
-I blend my background in research and information systems to create delightful digital products. I work at Farsi.dev, where we empower our clients to leverage the full potential of data products.
+I blend my background in research and information systems to create delightful digital products. I work at [Farsi.dev](https://farsi.dev), where we empower our clients to leverage the full potential of data products.
 
-Do you know Vue.js and want to get an awesome job? Get in touch with me today and join our awesome team at Farsi.dev!
+Do you know Vue.js and want to get an awesome job? Get in touch with me today and join our awesome team at [Farsi.dev](https://farsi.dev)!
 
-Drop me a message at hello[at]aliwesome.ir
+Drop me a message at [hello[at]aliwesome.ir](mailto:hello@aliwesome.ir)
 
 [![Farsi](https://img.shields.io/badge/Farsi-09863d?style=for-the-badge)](https://farsi.dev) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/aliwesome/)
