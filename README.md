@@ -12,7 +12,7 @@ Drop me a message at [hello[at]aliwesome.ir](mailto:hello@aliwesome.ir)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/aliwesome)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:aliwsome@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliwesome&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin11&layout=compact&theme=algolia" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=aliwesome&title_color=09863d&bg_color=012200&text_color=ffffff&icon_color=ffffff&show_icons=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliwesome&title_color=09863d&bg_color=012200&text_color=ffffff&icon_color=ffffff&show_icons=true&layout=compact" height="180" />
 
 The languages and tools that we spend our time together:
 
